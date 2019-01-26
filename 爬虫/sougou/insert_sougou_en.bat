@@ -1,0 +1,3 @@
+title insert_sougou_mongo_en.py
+python insert_sougou_mongo_en.py
+pause

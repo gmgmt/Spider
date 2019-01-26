@@ -1,0 +1,4 @@
+Fri, 25 Jan 2019 13:56:31 cdmd_mongo.py[line:79] INFO this is pid: 1596  one_list: 300 two_list: 1030
+Fri, 25 Jan 2019 13:57:14 cdmd_mongo.py[line:79] INFO this is pid: 1596  one_list: 200 two_list: 1715
+Fri, 25 Jan 2019 13:58:00 cdmd_mongo.py[line:79] INFO this is pid: 1596  one_list: 100 two_list: 2518
+Fri, 25 Jan 2019 13:58:32 cdmd_mongo.py[line:79] INFO this is pid: 1596  one_list: 0 two_list: 3157
